@@ -1,0 +1,5 @@
+{
+  "name": "Apartment Maintenance Tracker",
+  "description": "A web application to track maintenance and water bill payments for apartment residents, including features for comments and receipt uploads.",
+  "requestFramePermissions": []
+}
